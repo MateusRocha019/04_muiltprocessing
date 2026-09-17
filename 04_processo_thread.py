@@ -67,3 +67,4 @@ if __name__ == "__main__":
     p2.join()
     print('Contador na main: ', contador, flush=True) 
     print('cada processo devolveu: ', a, 'e', b, flush=True)
+    print('')
